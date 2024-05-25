@@ -1,7 +1,12 @@
 <h1 align="center"> 👨‍💻 GOIT Team Project 👩‍💻 </h1>
 <h2 align="center">  FILMOTEKA 🎥 </h2>
 <h3 align="center">  Tech Titans | Group 2 </h3>
-<img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" align="center">
+<img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" style=
+  "display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"
+>
 
 <span align="center">
 
@@ -20,8 +25,6 @@
 <h3 align="center"> ℹ️  Tech Titans Team  🚀 <h3>
    
 <span align="center">
-
-
 
 <a align="center" href="https://github.com/yhanz15">![GitHub](https://img.shields.io/badge/-Yhanz-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/aprilespiritu">![GitHub](https://img.shields.io/badge/-April-05122A?style=flat&logo=github)</a>
