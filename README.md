@@ -17,9 +17,10 @@
 </span>
 
 <h3 align="center"> ℹ️  Tech Titans Team  🚀 <h3>
+   <img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" align="center">
 <span align="center">
 
- <img align="center" src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" >
+
 
 <a align="center" href="https://github.com/yhanz15">![GitHub](https://img.shields.io/badge/-Yhanz-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/aprilespiritu">![GitHub](https://img.shields.io/badge/-April-05122A?style=flat&logo=github)</a>
