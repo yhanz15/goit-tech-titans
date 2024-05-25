@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yhanz15.github.io/Filikula-tech-titans-goit",
+  "homepage": "https://yhanz15.github.io/goit-tech-titans",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filikula-tech-titans-goit/"
+    "build": "parcel build src/*.html --public-url /goit-tech-titans/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://yhanz15.github.io/Filikula-tech-titans-goit.git"
+    "url": "git+https://yhanz15.github.io/goit-tech-titans.git"
   },
   "keywords": [],
   "author": "Ian To-ong <yhanz.kd15@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://yhanz15.github.io/Filikula-tech-titans-goit/issues"
+    "url": "https://yhanz15.github.io/goit-tech-titans/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
