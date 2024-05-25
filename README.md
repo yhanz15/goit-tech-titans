@@ -15,9 +15,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
 </span>
-
+<img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" align="center">
 <h3 align="center"> ℹ️  Tech Titans Team  🚀 <h3>
-   <img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" align="center">
+   
 <span align="center">
 
 
