@@ -1,7 +1,7 @@
 <h1 align="center"> 👨‍💻 GOIT Team Project 👩‍💻 </h1>
 <h2 align="center">  FILMOTEKA 🎥 </h2>
 <h3 align="center">  Tech Titans | Group 2 </h3>
-<center><img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px"></center>
+<div style="text-align: center;"><img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px"></center</div>
 
 <span align="center">
 
