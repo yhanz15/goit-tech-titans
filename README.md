@@ -18,7 +18,7 @@
 </span>
 
 <h3 align="center"> ℹ️  Tech Titans Team  🚀 <h3>
-<img src="./src/images/tech-titans.jpg" alt="Team Logo" width="300px" height="300px" align="center" valign="middle" style="display: block;" >
+<img src="./src/images/tech-titans.jpg" alt="Team Logo" width="200px" height="200px" align="center" valign="middle" style="display: block;" >
    
 <span align="center">
 
