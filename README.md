@@ -18,7 +18,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
 </span>
 
-<h3 align="center" fontsize="16px"> ℹ️ Team  🚀 </h3>
+<h3 align="center" fontsize="30px"> ℹ️ Team  🚀 </h3>
 <h3 align="center"><img src="./src/images/tech-titans.jpg" alt="Team Logo" width="350px" height="350px" align="center" valign="middle" style="display: block;" ></h3>
 
    
