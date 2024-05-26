@@ -43,7 +43,7 @@ The project is implemented in Vanilla JavaScript and working with:
 
 🛠 responsive design for use on phone 📱, tablet 📟 and desktop 💻.
 
-We are students of the FullStack Developer course
+We are students of the FullStack Developer of
 [<img src="https://img.shields.io/badge/Go-IT-orange" />](https://goit.ua), the
 project is written at the end of the study of JavaScript.
 
